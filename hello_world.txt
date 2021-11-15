@@ -1,1 +1,3 @@
 hello World
+print("hello World!")
+Console.log("hello World!")
